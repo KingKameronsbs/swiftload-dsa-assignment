@@ -2,7 +2,7 @@
  * ============================================================
  *  Swift-Load Logistics — Data Structures & Algorithms
  *  Unit 19 | Task 1 & Task 2
- *  Academic Year: 2025-2026
+ *  Academic Year:2026
  * ============================================================
  */
 
